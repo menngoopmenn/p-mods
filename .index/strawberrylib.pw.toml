@@ -1,0 +1,25 @@
+filename = 'strawberrylib-26.1-r5.jar'
+name = 'StrawberryLib'
+side = 'both'
+x-prismlauncher-loaders = [ 'quilt', 'fabric' ]
+x-prismlauncher-mc-versions = [ '26.1', '26.1.1', '26.1.2' ]
+x-prismlauncher-release-type = 'release'
+x-prismlauncher-version-number = '26.1-r5'
+
+[download]
+hash = 'f472f3249f162a171b90300c2563a0a6d117267ba71267e07da521f3ffd0bda673fd4e9c78e4b53132f4007275f29b4a15bb558ea29484e6daa39be14a6a98ff'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/9Ya7Yyre/versions/UdBiTY4A/strawberrylib-26.1-r5.jar'
+
+[update.modrinth]
+mod-id = '9Ya7Yyre'
+version = 'UdBiTY4A'
+
+[[x-prismlauncher-dependencies]]
+addonId = 'K01OU20C'
+type = 'EMBEDDED'
+
+[[x-prismlauncher-dependencies]]
+addonId = 'P7dR8mSH'
+type = 'REQUIRED'

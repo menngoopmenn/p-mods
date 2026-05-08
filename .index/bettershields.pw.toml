@@ -1,0 +1,18 @@
+filename = 'bettershields-fabric-1.10.0+mc26.1.jar'
+name = 'BetterShields'
+side = 'client'
+x-prismlauncher-dependencies = []
+x-prismlauncher-loaders = [ 'quilt', 'fabric' ]
+x-prismlauncher-mc-versions = [ '26.1', '26.1.1', '26.1.2' ]
+x-prismlauncher-release-type = 'release'
+x-prismlauncher-version-number = '1.10.0+mc26.1-fabric'
+
+[download]
+hash = 'caa5423a03302ec2640458d68fac4b6ffa33a0d64307bfad09bbf54bc2160bfca5918c71a458717210bee12bacc329983cf08b4670260fa0806a5b098ae377c5'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/UpdayxEt/versions/O7iaUbuU/bettershields-fabric-1.10.0%2Bmc26.1.jar'
+
+[update.modrinth]
+mod-id = 'UpdayxEt'
+version = 'O7iaUbuU'

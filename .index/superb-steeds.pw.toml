@@ -1,0 +1,25 @@
+filename = 'superbsteeds-26.1-r1.jar'
+name = 'Superb Steeds'
+side = 'both'
+x-prismlauncher-loaders = [ 'quilt', 'fabric' ]
+x-prismlauncher-mc-versions = [ '26.1', '26.1.1', '26.1.2' ]
+x-prismlauncher-release-type = 'release'
+x-prismlauncher-version-number = '26.1-r1'
+
+[download]
+hash = '9c97e8984669872ed5f68981dde1fcbc7ba2ae1c6734b44430db2c22f8cb7cc6affcf7780cae94214c2cec234a8f29b52e10d7ed4754d1e606d670b58c945949'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/UIZkbR3j/versions/Qe7Uf76j/superbsteeds-26.1-r1.jar'
+
+[update.modrinth]
+mod-id = 'UIZkbR3j'
+version = 'Qe7Uf76j'
+
+[[x-prismlauncher-dependencies]]
+addonId = '9Ya7Yyre'
+type = 'REQUIRED'
+
+[[x-prismlauncher-dependencies]]
+addonId = 'P7dR8mSH'
+type = 'REQUIRED'
