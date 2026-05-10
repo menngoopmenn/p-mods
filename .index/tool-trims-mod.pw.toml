@@ -1,0 +1,21 @@
+filename = 'tooltrims-1.3.0+mc26.1.jar'
+name = 'Tool Trims Mod'
+side = 'both'
+x-prismlauncher-loaders = [ 'fabric' ]
+x-prismlauncher-mc-versions = [ '26.1', '26.1.1', '26.1.2' ]
+x-prismlauncher-release-type = 'beta'
+x-prismlauncher-version-number = '1.3.0+mc26.1'
+
+[download]
+hash = 'a837aeeac09b399fea556c3d063b9f627d4a03f118d7835f0962e70e4f349a86b68e6fb0eaa595f918ae2fa76dac62f8d7e469e354e8f2e58264b25e071e66ca'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/GqdixiwC/versions/tgBnOllE/tooltrims-1.3.0%2Bmc26.1.jar'
+
+[update.modrinth]
+mod-id = 'GqdixiwC'
+version = 'tgBnOllE'
+
+[[x-prismlauncher-dependencies]]
+addonId = 'P7dR8mSH'
+type = 'REQUIRED'
