@@ -1,24 +1,20 @@
-filename = 'nycto-26.1-b9.jar'
+filename = 'nycto-26.1-b11.jar'
 name = 'Nycto'
-side = 'both'
+side = ''
 x-prismlauncher-loaders = [ 'quilt', 'fabric' ]
 x-prismlauncher-mc-versions = [ '26.1', '26.1.1', '26.1.2' ]
 x-prismlauncher-release-type = 'beta'
-x-prismlauncher-version-number = '26.1-b9'
+x-prismlauncher-version-number = '26.1-b11'
 
 [download]
-hash = '495afec191829412392b697ff48de71a6f7d700d35174bbeca811544e38a2f434acda2ddd4d6d6f991e9c526c55f65630fe33eac8f98907e850b3212b56c5721'
+hash = '50f3b4f47101d45fb9850ed7f9f94ef5cf2d6013c7712b9feec1e29946e0e231430b627fc0b6ef8259fe1db475f22b698f4d09eab347500ff5cc3631f4fdc3d5'
 hash-format = 'sha512'
 mode = 'url'
-url = 'https://cdn.modrinth.com/data/tnTEDxIj/versions/8DRY5vc8/nycto-26.1-b9.jar'
+url = 'https://cdn.modrinth.com/data/tnTEDxIj/versions/57sdGb4J/nycto-26.1-b11.jar'
 
 [update.modrinth]
 mod-id = 'tnTEDxIj'
-version = '8DRY5vc8'
-
-[[x-prismlauncher-dependencies]]
-addonId = '9Ya7Yyre'
-type = 'REQUIRED'
+version = '57sdGb4J'
 
 [[x-prismlauncher-dependencies]]
 addonId = 'P7dR8mSH'
@@ -27,3 +23,7 @@ type = 'REQUIRED'
 [[x-prismlauncher-dependencies]]
 addonId = 'DHQA06r4'
 type = 'EMBEDDED'
+
+[[x-prismlauncher-dependencies]]
+addonId = '9Ya7Yyre'
+type = 'REQUIRED'
