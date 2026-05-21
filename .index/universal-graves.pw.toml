@@ -1,20 +1,20 @@
-filename = 'graves-3.11.0+26.1.2.jar'
+filename = 'graves-3.11.1+26.1.2.jar'
 name = 'Universal Graves'
-side = 'server'
+side = ''
 x-prismlauncher-loaders = [ 'fabric' ]
 x-prismlauncher-mc-versions = [ '26.1.2' ]
 x-prismlauncher-release-type = 'release'
-x-prismlauncher-version-number = '3.11.0+26.1.2'
+x-prismlauncher-version-number = '3.11.1+26.1.2'
 
 [download]
-hash = '91dd0a12d0d4bf6b05743539174d60407a417026d25dac2fade11ba8ba6efda1c095e154bb25538e91bb36381e8a60e8c480144e74348a385603a7fa9cc5fdc2'
+hash = '3caa63bb7d8f4ae3623310d13149de950e87f3b9083fce8a7dfe3083eea92dd2ab9721fabf27ebb6121deffc6f48af8b85f3543980381d588e6dcd667a7bf5e4'
 hash-format = 'sha512'
 mode = 'url'
-url = 'https://cdn.modrinth.com/data/yn9u3ypm/versions/rZHOziFD/graves-3.11.0%2B26.1.2.jar'
+url = 'https://cdn.modrinth.com/data/yn9u3ypm/versions/hI8eYRJ3/graves-3.11.1%2B26.1.2.jar'
 
 [update.modrinth]
 mod-id = 'yn9u3ypm'
-version = 'rZHOziFD'
+version = 'hI8eYRJ3'
 
 [[x-prismlauncher-dependencies]]
 addonId = 'xGdtZczs'
