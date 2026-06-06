@@ -1,24 +1,20 @@
-filename = 'enchancement-26.1-r12.jar'
+filename = 'enchancement-26.1-r16.jar'
 name = 'Enchancement'
-side = 'both'
+side = ''
 x-prismlauncher-loaders = [ 'quilt', 'fabric' ]
 x-prismlauncher-mc-versions = [ '26.1', '26.1.1', '26.1.2' ]
 x-prismlauncher-release-type = 'release'
-x-prismlauncher-version-number = '26.1-r12'
+x-prismlauncher-version-number = '26.1-r16'
 
 [download]
-hash = '16ba705de7b0d820b337367ad714b21e515bfc738770407f3d3708a73fe30192878084a9d79e30a62e22a5605a64619e5707c92070298c0315a271d57933870f'
+hash = '3707fc62c6587300d575ec0eedbbb5092df0d985940c329af28c558f9df10cdc43d63b5af423d68216ef45d26464d50158ab271dc7cd740821c23e450f692b31'
 hash-format = 'sha512'
 mode = 'url'
-url = 'https://cdn.modrinth.com/data/6hN1V6wJ/versions/76BNamaw/enchancement-26.1-r12.jar'
+url = 'https://cdn.modrinth.com/data/6hN1V6wJ/versions/wc0bMBuC/enchancement-26.1-r16.jar'
 
 [update.modrinth]
 mod-id = '6hN1V6wJ'
-version = '76BNamaw'
-
-[[x-prismlauncher-dependencies]]
-addonId = '9Ya7Yyre'
-type = 'REQUIRED'
+version = 'wc0bMBuC'
 
 [[x-prismlauncher-dependencies]]
 addonId = 'codAaoxh'
@@ -26,4 +22,8 @@ type = 'EMBEDDED'
 
 [[x-prismlauncher-dependencies]]
 addonId = 'P7dR8mSH'
+type = 'REQUIRED'
+
+[[x-prismlauncher-dependencies]]
+addonId = '9Ya7Yyre'
 type = 'REQUIRED'

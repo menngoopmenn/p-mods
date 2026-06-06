@@ -1,20 +1,20 @@
-filename = 'strawberrylib-26.1-r7.jar'
+filename = 'strawberrylib-26.1-r8.jar'
 name = 'StrawberryLib'
-side = 'both'
+side = ''
 x-prismlauncher-loaders = [ 'quilt', 'fabric' ]
 x-prismlauncher-mc-versions = [ '26.1', '26.1.1', '26.1.2' ]
 x-prismlauncher-release-type = 'release'
-x-prismlauncher-version-number = '26.1-r7'
+x-prismlauncher-version-number = '26.1-r8'
 
 [download]
-hash = 'a33a427445fc7f85ad19cb6e548692a754541b25a8c4e8b769ab46bf48dab06869650ed29c1ac747de7f799fcc0748eca3be45284714de0e0ecd04a7030a19d9'
+hash = '92c9164592b047c6e9dcbce2dca5a215c4f88230608f5fda083aadbc8c9c5a888bc5d75e77066027e704a91a4a7d4ece7ae58e707a765c6af3efac93ce33c48f'
 hash-format = 'sha512'
 mode = 'url'
-url = 'https://cdn.modrinth.com/data/9Ya7Yyre/versions/TyTUQRgG/strawberrylib-26.1-r7.jar'
+url = 'https://cdn.modrinth.com/data/9Ya7Yyre/versions/Y97mHCxs/strawberrylib-26.1-r8.jar'
 
 [update.modrinth]
 mod-id = '9Ya7Yyre'
-version = 'TyTUQRgG'
+version = 'Y97mHCxs'
 
 [[x-prismlauncher-dependencies]]
 addonId = 'P7dR8mSH'
