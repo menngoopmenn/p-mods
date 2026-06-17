@@ -1,20 +1,20 @@
-filename = 'lithostitched-1.7.7-fabric-26.1.jar'
+filename = 'lithostitched-1.7.10+beta4-fabric-26.1.jar'
 name = 'Lithostitched'
 side = ''
 x-prismlauncher-loaders = [ 'fabric' ]
 x-prismlauncher-mc-versions = [ '26.1', '26.1.1', '26.1.2' ]
-x-prismlauncher-release-type = 'release'
-x-prismlauncher-version-number = '1.7.7-fabric-26.1'
+x-prismlauncher-release-type = 'beta'
+x-prismlauncher-version-number = '1.7.10+beta4-fabric-26.1'
 
 [download]
-hash = 'd93811321d7e1b11525ebcc326bab9dec0633b85ef3b0d4253dbe299af091b35d369c5e3ace5f8a58ac97a703d9351389b22c07a917cb004e65c268e582d066d'
+hash = '6f19a4913064da30826824b52cf3a48772b708ad6201edff8a51ddc37ab0fd3cc33506fb8615184f2f63ca51b7a0bd0c43f18afd222488434a0b5cea20bdaa77'
 hash-format = 'sha512'
 mode = 'url'
-url = 'https://cdn.modrinth.com/data/XaDC71GB/versions/dUL7i4Qf/lithostitched-1.7.7-fabric-26.1.jar'
+url = 'https://cdn.modrinth.com/data/XaDC71GB/versions/ePXn1Tua/lithostitched-1.7.10%2Bbeta4-fabric-26.1.jar'
 
 [update.modrinth]
 mod-id = 'XaDC71GB'
-version = 'dUL7i4Qf'
+version = 'ePXn1Tua'
 
 [[x-prismlauncher-dependencies]]
 addonId = 'P7dR8mSH'
