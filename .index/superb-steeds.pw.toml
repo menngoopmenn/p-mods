@@ -1,20 +1,20 @@
-filename = 'superbsteeds-26.1-r1.jar'
+filename = 'superb-steeds-fabric-26.1-r2.jar'
 name = 'Superb Steeds'
 side = 'both'
-x-prismlauncher-loaders = [ 'quilt', 'fabric' ]
+x-prismlauncher-loaders = [ 'fabric' ]
 x-prismlauncher-mc-versions = [ '26.1', '26.1.1', '26.1.2' ]
 x-prismlauncher-release-type = 'release'
-x-prismlauncher-version-number = '26.1-r1'
+x-prismlauncher-version-number = '26.1-r2'
 
 [download]
-hash = '9c97e8984669872ed5f68981dde1fcbc7ba2ae1c6734b44430db2c22f8cb7cc6affcf7780cae94214c2cec234a8f29b52e10d7ed4754d1e606d670b58c945949'
+hash = '2899c2f46088c1dfbc0e50dac1aab5676ced0437546a015be4a04e827db5389f297479fcb836f6b93d3a18f0c26e95ed48c5076ae16ff60c1aa02db835b5ae9e'
 hash-format = 'sha512'
 mode = 'url'
-url = 'https://cdn.modrinth.com/data/UIZkbR3j/versions/Qe7Uf76j/superbsteeds-26.1-r1.jar'
+url = 'https://cdn.modrinth.com/data/UIZkbR3j/versions/bKGXydR8/superb-steeds-fabric-26.1-r2.jar'
 
 [update.modrinth]
 mod-id = 'UIZkbR3j'
-version = 'Qe7Uf76j'
+version = 'bKGXydR8'
 
 [[x-prismlauncher-dependencies]]
 addonId = '9Ya7Yyre'
