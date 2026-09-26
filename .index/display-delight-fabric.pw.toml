@@ -1,18 +1,18 @@
-filename = 'display-delight-1.8.2-mc26.1.2.jar'
-name = 'Display Delight [Fabric]'
-side = ''
+filename = 'display-delight-1.8.3-mc26.1.2.jar'
+name = 'Display Delight Fabric'
+side = 'both'
 x-prismlauncher-dependencies = []
 x-prismlauncher-loaders = [ 'fabric' ]
 x-prismlauncher-mc-versions = [ '26.1.2' ]
 x-prismlauncher-release-type = 'release'
-x-prismlauncher-version-number = '1.8.2-mc26.1.2'
+x-prismlauncher-version-number = '1.8.3-mc26.1.2'
 
 [download]
-hash = '5c1375468f9c6468a03d5d6d32b8225dcc945f83d1edaaa38ccd70ca9e0153ab0e8a7769b9795f447a9fe4a8c96d06fac2bd6d50e822604393d45156b0ecdced'
+hash = '0db4982b6a36015619bc2979093d47af556e6cb720c466b6c7f47dc31fb246f5f32f2cb3cf5ed28945ce88834e7bed886aa7a8a69ac28ac11bb6afc32ecc8f89'
 hash-format = 'sha512'
 mode = 'url'
-url = 'https://cdn.modrinth.com/data/jK2xMxSG/versions/8eau2kuv/display-delight-1.8.2-mc26.1.2.jar'
+url = 'https://cdn.modrinth.com/data/jK2xMxSG/versions/mQ4bMaqF/display-delight-1.8.3-mc26.1.2.jar'
 
 [update.modrinth]
 mod-id = 'jK2xMxSG'
-version = '8eau2kuv'
+version = 'mQ4bMaqF'
